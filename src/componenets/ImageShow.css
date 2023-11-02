@@ -1,0 +1,6 @@
+.img-div{
+    display: flex;
+    flex-direction: row;
+    width: 200px;
+    height: 250px;
+}   
